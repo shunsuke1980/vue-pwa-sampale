@@ -1,6 +1,6 @@
 {
-  "name": "vue-pwa-sampale",
-  "version": "0.1.0",
+  "name": "sampale",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
